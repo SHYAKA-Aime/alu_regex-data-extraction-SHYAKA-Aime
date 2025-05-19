@@ -50,7 +50,7 @@ Matches: 14:30 (24-hour format), 2:30 PM (12-hour format)
 HTML Tags
 
 Pattern: `<[^>]+>`
-Matches: <p>, <div class="example">, <img src="image.jpg" alt="description">
+Matches: <p>, <div class="example">
 
 Hashtags
 
